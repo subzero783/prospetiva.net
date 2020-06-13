@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Molla - Bootstrap eCommerce Template</title>
+    <title>Fashion Clothes Store - Prospetiva</title>
     <meta name="keywords" content="HTML5 Template">
     <meta name="description" content="Molla - Bootstrap eCommerce Template">
     <meta name="author" content="p-themes">
@@ -37,11 +37,11 @@
                         <div class="soon-content-wrapper">
                             <img src="assets/images/logo-icon.png" alt="Logo" class="soon-logo mx-auto">
                             <h1 class="soon-title">Coming Soon</h1><!-- End .soon-title -->
-                            <div class="coming-countdown countdown-separator"></div><!-- End .coming-countdown -->
+                            <!--<div class="coming-countdown countdown-separator"></div>-->
                             <hr class="mt-2 mb-3 mt-md-3">
                             <p>We are currently working on an awesome new site. Stay tuned for more information.
                                 Subscribe to our newsletter to stay updated on our progress.</p>
-                            <form action="#">
+                            <!--<form action="#">
                                 <div class="input-group mb-5">
                                     <input type="email" class="form-control bg-transparent" placeholder="Enter your Email Address" required>
                                     <div class="input-group-append">
@@ -51,13 +51,13 @@
                                         </button>
                                     </div>
                                 </div>
-                            </form>
+                            </form>-->
                             <div class="social-icons justify-content-center mb-0">
-                                <a href="#" class="social-icon" target="_blank" title="Facebook"><i class="icon-facebook-f"></i></a>
-                                <a href="#" class="social-icon" target="_blank" title="Twitter"><i class="icon-twitter"></i></a>
-                                <a href="#" class="social-icon" target="_blank" title="Instagram"><i class="icon-instagram"></i></a>
-                                <a href="#" class="social-icon" target="_blank" title="Youtube"><i class="icon-youtube"></i></a>
-                                <a href="#" class="social-icon" target="_blank" title="Pinterest"><i class="icon-pinterest"></i></a>
+                                <a href="https://www.facebook.com/prospetiva.net/" class="social-icon" target="_blank" title="Facebook"><i class="icon-facebook-f"></i></a>
+                                <!--<a href="#" class="social-icon" target="_blank" title="Twitter"><i class="icon-twitter"></i></a>-->
+                                <a href="https://www.instagram.com/prospetiva/" class="social-icon" target="_blank" title="Instagram"><i class="icon-instagram"></i></a>
+                                <!--<a href="#" class="social-icon" target="_blank" title="Youtube"><i class="icon-youtube"></i></a>
+                                <a href="#" class="social-icon" target="_blank" title="Pinterest"><i class="icon-pinterest"></i></a>-->
                             </div><!-- End .soial-icons -->
                         </div><!-- End .soon-content-wrapper -->
                     </div><!-- End .soon-content -->

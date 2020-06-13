@@ -1,0 +1,10 @@
+Options +FollowSymlinks
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+#RewriteRule ^(.*)\.htm$ $1.php [NC] 
+
+ErrorDocument 404 /404.php
+
+Redirect /index.php /coming-soon.php
