@@ -39,8 +39,7 @@
                             <h1 class="soon-title">Coming Soon</h1><!-- End .soon-title -->
                             <!--<div class="coming-countdown countdown-separator"></div>-->
                             <hr class="mt-2 mb-3 mt-md-3">
-                            <p>We are currently working on an awesome new site. Stay tuned for more information.
-                                Subscribe to our newsletter to stay updated on our progress.</p>
+                            <p>We are currently working on an awesome new site. Stay tuned for more information. Visit us on social media.</p>
                             <!--<form action="#">
                                 <div class="input-group mb-5">
                                     <input type="email" class="form-control bg-transparent" placeholder="Enter your Email Address" required>
