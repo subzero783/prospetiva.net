@@ -127,7 +127,7 @@ gulp.task('babel', () => {
 // Sync - Livereload
 gulp.task('browser-sync', ['sass'], function () {
 	browserSync.init({
-		proxy: 'localhost/molla/'
+		proxy: 'http://prospetiva.localhost'
 	});
 
 	// watch scss files
