@@ -1,0 +1,38 @@
+{
+  "name": "molla",
+  "version": "1.0.0",
+  "description": "eCommerce Template",
+  "main": "gulpfile.js",
+  "scripts": {
+    "init": "gulp default"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://puffde@bitbucket.org/puffde/alxmolla.git"
+  },
+  "keywords": [
+    "shop"
+  ],
+  "author": "eon",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/puffde/alxmolla#readme",
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-order": "^1.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2"
+  }
+}
